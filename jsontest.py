@@ -1,7 +1,7 @@
 import json
  
 # Opening JSON file
-f = open(r'C:\Work\Jsonformatter\test.json')
+f = open(r'path')
  
 # returns JSON object as
 # a dictionary
